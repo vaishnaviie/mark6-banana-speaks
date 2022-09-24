@@ -1,5 +1,5 @@
 # Minion Speaks
-A fun translation app developed using vanillaJs convert from English language to Minion's language.
+A fun translation app developed using vanillaJs convert from English language to Minion's banana language.
 
 # Technologies used:-
 1. Html
